@@ -9,3 +9,30 @@ The Virginia Geogrpahic Information Network (VGIN) provided quarterly downloads 
 
 Address Points and Building Footprints were extracted from the 2019 Quarter 1 Release.  
 
+### stats
+
+| type  |   Count |
+| ------------- | ------------- |
+| total buildings  | 49,092  |
+| total buildings with addresses  | 48,531  |
+|  `amenity=` tags  | 450 |
+| `shop=` tags  | 268  |
+
+`building=`
+
+| Building  |   Count |
+| ------------- | ------------- |
+| apartments  | 712  |
+| commercial  | 5  |
+| dormitory  | 1  |
+| garage  | 5,727  |
+| hospital | 1 |
+| house  | 24,162  |
+| industrial  | 231  |
+| office  | 217  |
+| retail  | 93 |
+| semidetached_house  | 48 |
+| shed  | 14,527 |
+| static_caravan  | 55 |
+| yes  | 3,311  |
+
