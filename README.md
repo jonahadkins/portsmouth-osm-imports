@@ -7,7 +7,10 @@ The Virginia Geogrpahic Information Network (VGIN) provided quarterly downloads 
 
 ```"As of January 1, 2015, the VGIN database is public domain. Best efforts were undertaken to ensure the correctness of Address Point data throughout the Commonwealth of Virginia, however, all warranties regarding the accuracy of the map data and any representation or inferences derived there from are hereby expressly disclaimed."```  
 
-Address Points and Building Footprints were extracted from the 2019 Quarter 1 Release.  
+Address Points and Building Footprints were extracted from the 2019 Quarter 1 Release.
+
+Import accounts:
+- [jonahadkins_portsmouth_imports](https://www.openstreetmap.org/user/jonahadkins_portsmouth_imports)
 
 ### stats
 
