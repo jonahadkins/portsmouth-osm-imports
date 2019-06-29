@@ -16,7 +16,7 @@ Import accounts:
 | file  |   importer |
 | ------------- | ------------- |
 | p-2102  | jonahadkins_portsmouth_imports  |
-| p-2103  |   |
+| p-2103  | jonahadkins_portsmouth_imports |
 | p-2104  |   |
 | p-2105  |   |
 | p-2106  |   |
