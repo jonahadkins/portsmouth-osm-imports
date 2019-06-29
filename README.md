@@ -11,6 +11,40 @@ Address Points and Building Footprints were extracted from the 2019 Quarter 1 Re
 
 Import accounts:
 - [jonahadkins_portsmouth_imports](https://www.openstreetmap.org/user/jonahadkins_portsmouth_imports)
+### import
+
+| file  |   importer |
+| ------------- | ------------- |
+| p-2103  |   |
+| p-2104  |   |
+| p-2105  |   |
+| p-2106  |   |
+| p-2109  |   |
+| p-2111  |   |
+| p-2114  |   |
+| p-2115  |   |
+| p-2116  |   |
+| p-2117  |   |
+| p-2118  |   |
+| p-2119  |   |
+| p-2120  |   |
+| p-2121  |   |
+| p-2123  |   |
+| p-2124  |   |
+| p-2125  |   |
+| p-2126  |   |
+| p-212701  |   |
+| p-212702  |   |
+| p-212801  |   |
+| p-212802  |   |
+| p-2129  |   |
+| p-213001  |   |
+| p-213002  |   |
+| p-213101  |   |
+| p-213103  |   |
+| p-213104  |   |
+| p-2132  |   |
+| p-9801  |   |
 
 ### stats
 
