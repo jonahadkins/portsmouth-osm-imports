@@ -20,7 +20,7 @@ Import accounts:
 | p-2104  |  jonahadkins_portsmouth_imports |
 | p-2105  |  jonahadkins_portsmouth_imports |
 | p-2106  | jonahadkins_portsmouth_imports  |
-| p-2109  |   |
+| p-2109  |  probably will not do |
 | p-2111  | jonahadkins_portsmouth_imports  |
 | p-2114  |  jonahadkins_portsmouth_imports |
 | p-2115  |  jonahadkins_portsmouth_imports |
@@ -44,7 +44,7 @@ Import accounts:
 | p-213101  | jonahadkins_portsmouth_imports  |
 | p-213103  |  jonahadkins_portsmouth_imports |
 | p-213104  | jonahadkins_portsmouth_imports  |
-| p-2132  |   |
+| p-2132  |  jonahadkins_portsmouth_imports  |
 | p-9801  |  jonahadkins_portsmouth_imports |
 
 ### stats
